@@ -1,6 +1,8 @@
 package com.assignment2
 
 import android.os.Bundle
+import android.widget.Button
+import android.content.Intent //to prevent my button and intent call from errors
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
